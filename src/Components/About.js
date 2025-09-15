@@ -7,7 +7,6 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
     const street = this.props.data.address.street;
     const city = this.props.data.address.city;
@@ -34,7 +33,8 @@ class About extends Component {
             <div className="col-lg-4 mb-lg-0 d-flex  justify-content-center">
               <img
                 className="profile-pic"
-                src={profilepic}
+                style={{objectFit:"cover"}}
+                src={ this.props.data.profilepic}
                 alt="Nordic Giant Profile Pic"
               />
             </div>

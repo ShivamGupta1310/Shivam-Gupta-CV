@@ -1,3 +1,4 @@
 import fmsLogo from "./fms.jpg";
+import profile from "./profile.jpeg";
 
-export { fmsLogo };
+export { profile, fmsLogo };

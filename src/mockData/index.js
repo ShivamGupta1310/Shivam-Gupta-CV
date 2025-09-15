@@ -1,4 +1,4 @@
-import { fmsLogo } from "../assets/image";
+import { fmsLogo, profile } from "../assets/image";
 
 export const main = {
   name: "Shivam Gupta",
@@ -10,8 +10,9 @@ export const main = {
     "Here is where you should write your message to readers to have them get in contact with you.",
   email: "shivam.software.eng@gmail.com",
   phone: "+91 8320681757",
-  github: "https://github.com/nordicgiant2/react-nice-resume",
-  project: "https://github.com/nordicgiant2/react-nice-resume",
+  profilepic: profile,
+  github: "https://github.com/ShivamGupta1310/Shivam-Gupta-CV",
+  project: "https://github.com/ShivamGupta1310/Shivam-Gupta-CV",
   address: {
     street: "Chandkheda",
     city: "Ahmedabad",
