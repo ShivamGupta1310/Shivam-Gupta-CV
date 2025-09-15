@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Shivam-Gupta-CV/static/css/main.448e4490.css",
+    "main.js": "/Shivam-Gupta-CV/static/js/main.dbb20433.js",
+    "static/js/453.448d870a.chunk.js": "/Shivam-Gupta-CV/static/js/453.448d870a.chunk.js",
+    "static/media/Shivam_Gupta_CV.pdf": "/Shivam-Gupta-CV/static/media/Shivam_Gupta_CV.855d5770aea4a5636039.pdf",
+    "static/media/profile.jpeg": "/Shivam-Gupta-CV/static/media/profile.d9451faf6439965df9d1.jpeg",
+    "static/media/fms.jpg": "/Shivam-Gupta-CV/static/media/fms.6f4cfdde864575b0c6ca.jpg",
+    "static/media/logo.svg": "/Shivam-Gupta-CV/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shivam-Gupta-CV/index.html",
+    "main.448e4490.css.map": "/Shivam-Gupta-CV/static/css/main.448e4490.css.map",
+    "main.dbb20433.js.map": "/Shivam-Gupta-CV/static/js/main.dbb20433.js.map",
+    "453.448d870a.chunk.js.map": "/Shivam-Gupta-CV/static/js/453.448d870a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448e4490.css",
+    "static/js/main.dbb20433.js"
+  ]
+}
